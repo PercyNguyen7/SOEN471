@@ -1,0 +1,1001 @@
+CustomerID,Age,Subscription_Length_Months,Watch_Time_Hours,Number_of_Logins,Payment_Issues,Number_of_Complaints,Resolution_Time_Days,Membership_Type,Payment_Method,Preferred_Content_Type,Churn
+1,56,35,157.9575996,59,0,1,4,Standard,Debit,Movies,
+2,69,15,93.51549933,26,0,3,1,Basic,Debit,TV Shows,0
+3,46,25,87.09514338,57,1,6,15,Premium,PayPal,Movies,1
+4,32,28,113.9863231,12,0,4,13,Standard,Credit Card,Sports,0
+5,60,10,101.5348164,11,1,5,8,Basic,Credit Card,Movies,1
+6,25,17,166.0933043,37,1,1,25,Standard,Credit Card,Sports,1
+7,38,22,79.92926886,25,0,2,4,Standard,Credit Card,Movies,1
+8,56,26,122.7388547,18,0,6,10,Basic,PayPal,Movies,1
+9,36,25,221.8419333,19,1,1,19,Standard,Debit,TV Shows,1
+10,40,17,136.5222614,23,0,5,18,Standard,Debit,Movies,1
+11,28,13,143.1716058,55,0,4,5,Standard,Credit Card,Movies,1
+12,28,20,166.4272998,38,0,9,19,Standard,Credit Card,Sports,1
+13,41,25,101.4820374,54,0,0,26,Premium,Credit Card,Movies,0
+14,53,4,76.74321485,18,0,9,23,Standard,PayPal,TV Shows,1
+15,57,10,127.060451,26,0,3,27,Standard,PayPal,Sports,0
+16,41,3,130.6161531,6,0,1,22,Basic,Debit,TV Shows,1
+17,20,18,55.27156821,4,0,3,16,Premium,Credit Card,TV Shows,0
+18,39,22,135.0028766,44,0,0,1,Basic,Credit Card,TV Shows,1
+19,19,34,162.7940199,51,0,1,12,Basic,Credit Card,TV Shows,1
+20,41,8,83.48207708,29,0,7,24,Basic,Credit Card,Sports,1
+21,61,19,137.4222339,59,1,5,2,Premium,PayPal,Movies,1
+22,47,6,155.6905464,34,0,1,21,Basic,Debit,TV Shows,1
+23,55,26,143.4671283,17,0,5,25,Basic,Debit,Sports,1
+24,19,34,147.2402495,43,0,9,8,Basic,PayPal,TV Shows,1
+25,38,6,110.2079903,43,0,8,18,Standard,Credit Card,Movies,1
+26,50,33,74.89982649,53,0,6,25,Basic,Debit,Sports,1
+27,29,22,102.1141415,16,1,8,16,Premium,Debit,Sports,1
+28,39,21,96.55771593,2,0,4,5,Premium,PayPal,Movies,0
+29,61,6,116.7896382,34,1,6,26,Standard,Credit Card,Sports,1
+30,42,6,163.7308362,55,0,6,22,Premium,Debit,Movies,1
+31,66,4,67.52639487,8,0,2,13,Premium,Credit Card,Sports,1
+32,44,30,125.7700009,13,0,6,19,Standard,Debit,Sports,1
+33,59,11,77.46393418,42,1,0,29,Basic,PayPal,Movies,1
+34,45,30,90.39812329,8,0,8,3,Standard,Credit Card,Movies,1
+35,33,31,142.3496301,30,0,9,26,Basic,PayPal,Sports,1
+36,32,24,72.40219787,32,0,5,8,Basic,Debit,Sports,1
+37,64,9,149.3697716,36,0,4,27,Premium,PayPal,Movies,0
+38,68,3,65.91342214,47,0,6,26,Standard,PayPal,Movies,1
+39,61,31,146.6792161,30,0,4,26,Premium,PayPal,Sports,1
+40,69,24,58.01874922,1,0,9,12,Premium,Debit,Sports,1
+41,20,31,95.28749283,43,0,4,2,Basic,Credit Card,Sports,0
+42,54,6,195.8597753,39,0,9,11,Premium,PayPal,Movies,0
+43,68,2,188.3418548,17,1,6,12,Standard,Credit Card,Sports,1
+44,24,20,103.4990139,59,1,9,28,Premium,Debit,TV Shows,1
+45,38,28,135.5984234,20,1,6,18,Premium,Credit Card,Movies,1
+46,26,11,168.1627208,24,0,2,13,Basic,PayPal,Sports,0
+47,56,4,147.251847,50,0,2,5,Standard,PayPal,Movies,1
+48,35,15,109.0614301,22,0,9,22,Premium,PayPal,TV Shows,1
+49,21,6,90.05458744,29,0,2,12,Basic,PayPal,Movies,0
+50,42,30,154.7241257,22,0,5,2,Premium,PayPal,Sports,0
+51,31,2,165.2281323,44,0,5,5,Standard,PayPal,TV Shows,1
+52,67,15,188.6280734,9,0,2,7,Premium,Debit,TV Shows,0
+53,26,11,52.51002306,37,0,2,26,Premium,Debit,Sports,0
+54,43,8,69.87500847,10,1,7,26,Basic,Debit,Sports,1
+55,19,26,166.4769441,36,0,7,24,Premium,Credit Card,Sports,1
+56,37,5,57.93877813,37,0,6,12,Basic,Credit Card,Movies,1
+57,45,6,169.5419982,28,0,9,16,Standard,Debit,Movies,1
+58,64,26,111.4026998,28,0,3,23,Premium,Credit Card,Movies,0
+59,24,4,99.16344723,42,0,3,8,Standard,Credit Card,Sports,1
+60,61,19,128.2171439,43,1,2,28,Standard,PayPal,Sports,1
+61,25,20,66.18526191,21,1,4,9,Premium,PayPal,Movies,1
+62,64,33,152.9605932,24,0,2,15,Basic,Credit Card,TV Shows,1
+63,52,20,187.5854799,42,1,7,5,Standard,Credit Card,Movies,1
+64,31,12,154.8230486,40,1,6,13,Standard,Debit,TV Shows,1
+65,34,1,110.1396523,2,1,2,5,Premium,Credit Card,Sports,1
+66,53,26,58.47857169,55,1,8,11,Premium,PayPal,Sports,1
+67,67,14,60.01650175,8,0,4,10,Premium,Credit Card,Movies,0
+68,57,11,66.81426791,48,0,8,20,Premium,Debit,Movies,1
+69,21,13,119.5088689,27,0,6,13,Premium,PayPal,Sports,0
+70,19,3,124.5360025,22,0,6,9,Premium,PayPal,Movies,1
+71,23,33,154.7377404,37,1,5,21,Basic,PayPal,Sports,1
+72,59,6,48.15884054,27,0,1,14,Standard,PayPal,Sports,1
+73,21,10,172.4484092,57,0,8,18,Basic,Credit Card,TV Shows,1
+74,46,5,147.7762528,29,1,5,15,Basic,Debit,Movies,1
+75,35,23,106.9265483,3,1,7,10,Premium,Credit Card,Sports,1
+76,43,10,72.40953833,44,1,0,24,Standard,Credit Card,Movies,1
+77,61,2,169.9656257,13,0,4,7,Basic,PayPal,TV Shows,0
+78,51,13,107.9962416,45,0,0,8,Premium,Debit,TV Shows,0
+79,27,2,119.199244,10,0,9,28,Premium,PayPal,Movies,1
+80,53,20,135.3444788,36,0,7,3,Standard,Credit Card,Movies,1
+81,31,1,83.47204377,9,0,7,15,Basic,Credit Card,Sports,1
+82,48,9,108.7127768,54,0,0,16,Basic,PayPal,TV Shows,1
+83,65,17,154.6126761,56,1,8,4,Basic,Credit Card,TV Shows,1
+84,32,9,150.5638431,55,0,1,21,Premium,Credit Card,TV Shows,0
+85,25,11,150.9242883,27,0,8,6,Standard,PayPal,Movies,1
+86,31,15,73.79280995,34,0,0,1,Standard,Credit Card,Sports,0
+87,40,24,110.536786,51,0,9,4,Basic,Debit,Movies,1
+88,57,35,104.1442466,1,0,8,11,Premium,PayPal,Movies,1
+89,38,30,137.0071537,32,1,3,12,Basic,Debit,Movies,1
+90,33,31,133.4263196,25,0,8,26,Standard,Credit Card,Sports,1
+91,62,5,126.2170932,29,1,6,29,Premium,Credit Card,Movies,1
+92,35,14,218.6293582,7,0,5,5,Basic,PayPal,TV Shows,1
+93,64,11,108.3677568,49,1,4,23,Basic,Credit Card,TV Shows,1
+94,41,9,103.6870766,3,0,8,29,Premium,PayPal,TV Shows,1
+95,43,34,73.73001319,20,0,1,21,Standard,PayPal,Sports,1
+96,42,12,58.48610696,20,0,1,16,Premium,PayPal,Movies,1
+97,62,35,71.18730491,53,1,8,13,Basic,PayPal,Sports,1
+98,58,35,91.25272298,30,0,2,13,Basic,PayPal,Movies,1
+99,46,1,172.4029238,35,0,7,17,Basic,Debit,TV Shows,1
+100,32,22,121.5665562,35,1,8,27,Basic,PayPal,Movies,1
+101,62,29,127.7332267,49,1,7,7,Standard,Debit,Movies,1
+102,18,8,116.1490677,39,0,3,8,Standard,Credit Card,Movies,1
+103,42,11,134.6120397,27,0,0,13,Basic,PayPal,Sports,0
+104,24,14,176.0828859,26,0,3,23,Standard,Credit Card,Movies,0
+105,26,30,40.24276655,14,0,8,27,Standard,PayPal,Movies,1
+106,41,35,168.7334926,17,0,1,16,Standard,Debit,Movies,1
+107,18,21,19.3984619,18,1,2,29,Basic,Debit,Sports,1
+108,61,5,121.1281085,45,1,9,4,Premium,Debit,Sports,1
+109,25,19,207.6762942,52,0,7,8,Premium,Credit Card,Sports,0
+110,41,14,147.2263176,29,0,5,16,Premium,PayPal,Movies,0
+111,28,26,134.9223574,20,0,7,21,Basic,Credit Card,TV Shows,1
+112,68,4,200.0778387,53,1,6,10,Standard,Debit,TV Shows,1
+113,34,25,91.87748408,27,1,4,25,Standard,Credit Card,TV Shows,1
+114,25,25,137.3586969,18,0,8,12,Basic,Debit,Movies,1
+115,52,18,143.1246839,4,1,3,12,Basic,Debit,TV Shows,1
+116,52,8,99.10391463,1,0,5,26,Premium,Debit,TV Shows,0
+117,50,14,102.6355928,50,0,1,5,Premium,PayPal,TV Shows,0
+118,22,32,98.24882267,1,0,1,16,Basic,PayPal,Movies,1
+119,59,33,123.492599,58,0,1,1,Premium,Debit,TV Shows,1
+120,56,23,141.8676642,26,0,9,28,Standard,Credit Card,TV Shows,1
+121,58,15,124.9292109,45,0,6,9,Basic,Credit Card,Movies,1
+122,45,33,148.3784727,20,0,1,12,Basic,PayPal,Sports,1
+123,24,25,41.23410856,52,1,1,5,Standard,Debit,TV Shows,1
+124,26,17,111.2699535,23,0,8,22,Standard,Credit Card,Sports,1
+125,25,33,79.06322759,10,0,6,20,Standard,Debit,TV Shows,1
+126,29,2,132.0689005,59,0,2,22,Premium,Credit Card,Movies,1
+127,51,14,131.4766971,11,0,2,28,Basic,PayPal,Sports,1
+128,50,6,115.3751154,41,0,6,24,Premium,Debit,Sports,1
+129,65,6,140.4111604,41,0,4,3,Standard,Debit,Sports,0
+130,40,3,159.9125087,5,0,9,5,Premium,Credit Card,Sports,1
+131,41,7,117.5791791,58,0,5,2,Standard,Credit Card,TV Shows,1
+132,54,8,77.93220448,1,0,7,14,Premium,Credit Card,TV Shows,1
+133,52,15,56.74969716,17,0,8,2,Premium,Debit,Sports,1
+134,61,29,121.444407,22,0,0,13,Standard,PayPal,TV Shows,0
+135,57,33,129.6746681,34,0,2,7,Premium,PayPal,Sports,0
+136,39,30,81.21904442,56,0,6,10,Basic,Credit Card,Sports,1
+137,44,27,149.0306729,45,1,5,13,Premium,PayPal,Movies,1
+138,52,29,101.6417246,41,0,6,16,Premium,Credit Card,Sports,1
+139,18,33,53.74268539,29,0,7,26,Basic,PayPal,TV Shows,1
+140,52,27,170.2574537,4,1,5,14,Standard,Debit,Sports,1
+141,54,33,165.7595168,5,0,2,11,Basic,Credit Card,Movies,1
+142,64,4,39.37602253,11,0,1,10,Premium,PayPal,TV Shows,1
+143,31,22,97.49598873,56,1,6,6,Standard,Debit,Movies,1
+144,20,2,95.93665274,51,1,0,4,Premium,PayPal,Movies,1
+145,18,10,185.5795464,21,1,2,21,Premium,Debit,Sports,1
+146,22,5,116.0282916,35,0,3,1,Basic,Debit,Movies,0
+147,43,10,60.16487208,12,0,0,7,Basic,PayPal,Movies,1
+148,31,33,155.2841913,26,0,4,24,Standard,PayPal,TV Shows,1
+149,56,13,70.76897817,51,0,9,9,Standard,Debit,Movies,1
+150,44,31,109.5863804,19,0,2,8,Standard,Debit,Sports,0
+151,26,24,89.20924488,45,0,1,5,Premium,Debit,Sports,0
+152,32,15,97.58179607,7,1,2,19,Basic,Credit Card,Sports,1
+153,32,29,157.4903236,47,0,7,10,Basic,Debit,Movies,1
+154,43,8,180.8532065,55,0,5,11,Basic,Credit Card,TV Shows,0
+155,59,5,69.02525014,7,0,6,25,Standard,Debit,Sports,1
+156,30,29,145.043057,26,0,5,15,Basic,Credit Card,Movies,1
+157,68,4,90.68985481,40,0,5,6,Basic,Debit,Sports,1
+158,49,12,91.9331236,5,0,2,15,Basic,Debit,Sports,1
+159,56,2,139.6254489,21,0,7,5,Standard,Debit,TV Shows,1
+160,66,27,78.88388937,14,0,6,29,Basic,PayPal,Sports,1
+161,69,31,138.824104,4,1,6,19,Standard,PayPal,TV Shows,1
+162,49,26,149.2045343,23,1,5,22,Basic,Debit,Movies,1
+163,21,27,102.6987095,42,0,4,19,Basic,Credit Card,Sports,1
+164,47,5,173.0831241,20,0,9,10,Basic,Credit Card,Movies,1
+165,54,20,69.08701552,15,1,7,12,Standard,Debit,Movies,1
+166,40,11,173.8162476,50,1,4,22,Standard,PayPal,Movies,1
+167,56,10,42.24050282,52,0,8,4,Basic,Credit Card,Sports,1
+168,62,6,227.9885656,45,0,8,18,Premium,PayPal,TV Shows,1
+169,32,8,103.7519105,29,0,0,16,Standard,Credit Card,Sports,0
+170,60,23,73.50771374,8,1,5,8,Standard,Debit,Movies,1
+171,46,26,110.6931237,41,1,6,4,Basic,PayPal,TV Shows,1
+172,53,12,78.1408823,48,0,2,25,Premium,Credit Card,Movies,1
+173,30,26,135.478612,19,1,6,23,Basic,Debit,TV Shows,1
+174,49,13,174.7062933,48,0,6,12,Standard,Debit,Sports,1
+175,24,18,80.26175096,39,1,1,2,Standard,Debit,TV Shows,1
+176,68,25,143.1759696,46,0,6,4,Basic,PayPal,Sports,1
+177,39,33,58.69058524,28,1,0,5,Basic,PayPal,Movies,1
+178,45,12,161.3181893,46,0,4,3,Premium,Debit,TV Shows,0
+179,19,4,136.6494547,57,0,8,9,Premium,PayPal,Movies,1
+180,59,5,163.0473329,27,0,6,29,Standard,Credit Card,TV Shows,1
+181,62,8,115.1061239,4,1,6,21,Premium,Debit,Sports,1
+182,23,28,102.5937361,58,1,1,18,Premium,Debit,TV Shows,1
+183,45,31,152.6446974,15,1,7,11,Standard,PayPal,TV Shows,1
+184,45,9,67.67805914,35,1,2,3,Standard,Debit,Sports,1
+185,61,29,50.28702673,37,0,7,25,Standard,Credit Card,Sports,1
+186,61,14,119.8015206,1,0,2,23,Standard,PayPal,Sports,1
+187,37,22,104.4161357,3,0,9,2,Basic,PayPal,TV Shows,1
+188,47,11,142.1533333,47,0,6,9,Standard,Debit,Movies,1
+189,28,23,163.662057,24,0,1,14,Standard,Debit,TV Shows,0
+190,45,1,141.3205632,27,0,3,4,Standard,Debit,TV Shows,1
+191,42,21,160.4761325,40,0,5,29,Premium,PayPal,Movies,0
+192,56,26,132.8420933,36,0,8,9,Standard,Debit,Sports,1
+193,50,23,139.7838299,34,0,4,13,Basic,Credit Card,TV Shows,0
+194,18,1,115.3337116,29,0,8,18,Basic,Debit,Movies,1
+195,44,15,138.6018184,24,1,4,15,Standard,Debit,Sports,1
+196,69,21,126.6661131,24,1,9,28,Basic,PayPal,Sports,1
+197,30,9,133.0070719,42,1,7,10,Premium,Debit,TV Shows,1
+198,58,9,113.3310387,4,0,0,16,Standard,PayPal,Sports,1
+199,20,10,152.357168,3,0,6,12,Basic,Debit,Sports,1
+200,56,26,91.58189801,34,1,3,20,Basic,Credit Card,Movies,1
+201,23,35,119.2660392,57,0,4,5,Standard,Credit Card,Movies,1
+202,25,25,172.471356,49,0,5,2,Basic,PayPal,Sports,1
+203,44,26,82.05112708,23,0,4,10,Standard,PayPal,Movies,0
+204,26,11,33.52618153,53,0,0,1,Basic,Debit,Sports,1
+205,54,2,134.6582867,56,0,8,7,Premium,Debit,TV Shows,1
+206,50,7,109.7218204,52,0,1,26,Basic,Credit Card,Movies,0
+207,68,18,160.4344896,23,0,8,17,Basic,Debit,Sports,1
+208,59,27,114.7793968,45,0,9,16,Standard,Credit Card,Sports,1
+209,61,34,95.82643714,5,0,1,27,Basic,PayPal,Movies,1
+210,41,27,116.9673042,31,1,8,27,Standard,Debit,Movies,1
+211,32,17,163.7227435,53,0,5,24,Premium,PayPal,TV Shows,0
+212,49,24,143.0147851,41,0,8,3,Standard,Debit,Sports,1
+213,49,25,22.64390974,57,1,5,14,Standard,Credit Card,TV Shows,1
+214,41,7,127.4306997,57,0,5,10,Basic,PayPal,TV Shows,1
+215,58,6,129.4304853,54,0,1,22,Premium,PayPal,TV Shows,0
+216,69,24,119.2700014,6,0,7,7,Standard,Debit,Movies,1
+217,66,33,95.56440434,37,0,2,26,Basic,PayPal,TV Shows,1
+218,66,29,167.781275,57,0,6,17,Basic,Credit Card,Movies,1
+219,69,22,169.7613579,10,1,4,6,Standard,PayPal,Movies,1
+220,29,26,31.87358157,40,0,2,23,Basic,PayPal,TV Shows,1
+221,56,28,88.08162089,7,0,0,22,Standard,Debit,TV Shows,1
+222,19,21,114.2107739,39,0,7,4,Standard,PayPal,Sports,1
+223,20,7,157.9403281,38,0,2,17,Standard,Debit,TV Shows,1
+224,66,17,121.3941151,21,0,1,27,Premium,Debit,Sports,0
+225,54,20,92.65624799,20,0,0,9,Standard,PayPal,TV Shows,1
+226,66,20,148.3813431,3,0,3,4,Basic,Credit Card,TV Shows,0
+227,34,22,111.5465566,51,0,7,7,Premium,Debit,TV Shows,0
+228,66,28,115.3039656,22,0,2,23,Basic,PayPal,TV Shows,1
+229,19,7,118.9136627,47,0,0,2,Premium,Debit,Sports,0
+230,19,1,142.9723376,4,1,3,17,Premium,Credit Card,Sports,1
+231,45,32,107.6580159,28,0,8,24,Premium,Credit Card,TV Shows,1
+232,40,13,147.4778597,12,0,0,8,Premium,Debit,TV Shows,0
+233,54,30,117.0772413,38,0,1,23,Basic,Credit Card,Sports,1
+234,49,23,77.31933654,51,0,8,15,Standard,PayPal,Movies,1
+235,50,19,118.5289478,36,0,1,15,Basic,PayPal,Movies,1
+236,18,32,79.39146387,47,0,2,8,Standard,Debit,Movies,1
+237,36,30,121.6394716,41,1,6,16,Basic,Credit Card,Sports,1
+238,19,29,153.1789572,5,1,2,19,Premium,PayPal,Sports,1
+239,61,29,77.05483976,13,0,8,11,Premium,PayPal,Movies,1
+240,43,30,134.5709362,23,0,5,2,Standard,PayPal,Movies,1
+241,49,16,86.83850167,58,1,2,23,Standard,Debit,TV Shows,1
+242,23,19,128.0680224,50,1,8,24,Basic,Debit,Sports,1
+243,49,18,154.4081697,30,1,0,17,Standard,PayPal,Sports,1
+244,21,1,34.81947704,37,0,9,28,Basic,PayPal,Movies,1
+245,28,14,75.42096693,25,0,2,26,Standard,Credit Card,Movies,1
+246,34,2,105.2408222,48,0,0,16,Standard,Credit Card,Sports,1
+247,55,28,132.6016196,27,0,1,25,Standard,Credit Card,TV Shows,0
+248,41,30,113.3446668,51,0,7,15,Premium,Debit,Movies,1
+249,22,4,118.1647687,14,0,6,13,Premium,PayPal,Sports,1
+250,69,1,201.719381,57,1,1,15,Basic,Debit,Sports,1
+251,51,8,71.50170885,48,0,1,27,Standard,PayPal,TV Shows,1
+252,23,29,165.4194007,59,1,8,4,Basic,Credit Card,TV Shows,1
+253,39,3,106.0008749,47,0,5,16,Standard,Credit Card,Movies,1
+254,28,32,141.9789917,54,0,4,12,Premium,Credit Card,Movies,0
+255,65,10,205.1578622,36,0,9,4,Premium,Credit Card,Movies,1
+256,33,10,147.5471209,39,1,5,3,Standard,PayPal,Sports,1
+257,50,19,134.8998284,16,0,8,22,Standard,Credit Card,Movies,1
+258,26,34,183.9648934,56,0,6,17,Premium,PayPal,Sports,1
+259,23,33,164.9919458,22,1,9,22,Premium,PayPal,Movies,1
+260,33,23,88.02423695,21,0,9,18,Basic,Debit,TV Shows,1
+261,46,28,131.7809897,54,0,8,25,Premium,Credit Card,TV Shows,0
+262,20,32,51.30017063,21,0,3,18,Standard,Credit Card,Sports,1
+263,37,7,98.39386447,8,0,1,23,Basic,Debit,TV Shows,1
+264,53,29,132.5621187,49,0,7,28,Standard,PayPal,Sports,1
+265,36,8,95.91578589,16,0,3,17,Basic,Credit Card,Sports,0
+266,43,1,130.9346698,59,0,8,12,Standard,PayPal,TV Shows,1
+267,20,3,119.4646154,55,0,3,23,Premium,Debit,Sports,0
+268,36,24,141.4566693,31,0,7,21,Standard,PayPal,TV Shows,1
+269,37,23,103.0320391,42,0,8,24,Basic,Credit Card,Movies,1
+270,49,8,82.39404342,10,0,8,4,Standard,PayPal,Movies,1
+271,24,3,179.125073,32,0,9,12,Basic,PayPal,TV Shows,1
+272,69,33,100.1721303,59,0,3,26,Standard,Credit Card,TV Shows,0
+273,58,28,146.4004237,34,0,0,23,Premium,Credit Card,TV Shows,0
+274,50,8,177.4098811,9,0,2,22,Premium,PayPal,TV Shows,0
+275,57,34,126.5068,17,1,8,21,Standard,PayPal,Movies,1
+276,56,35,85.74773722,11,0,3,20,Standard,Debit,Sports,1
+277,35,32,112.855601,32,1,4,15,Standard,Credit Card,Sports,1
+278,57,24,160.7016367,10,1,6,23,Basic,PayPal,Movies,1
+279,18,14,128.2499018,22,0,4,28,Standard,Credit Card,Sports,1
+280,28,32,71.79432831,57,0,3,16,Standard,Debit,Movies,1
+281,45,16,143.8657533,17,0,1,5,Basic,PayPal,Sports,0
+282,42,4,150.7812588,4,1,1,21,Premium,PayPal,TV Shows,1
+283,67,21,105.7875246,48,0,3,15,Standard,PayPal,TV Shows,1
+284,40,14,144.409775,52,0,9,17,Standard,Credit Card,TV Shows,1
+285,48,31,129.8007438,47,0,9,18,Premium,Debit,Movies,1
+286,47,18,112.1028185,25,1,8,5,Premium,Credit Card,Movies,1
+287,59,7,68.25857026,59,1,7,13,Basic,PayPal,Sports,1
+288,52,10,163.1181558,21,0,2,19,Standard,Debit,Sports,0
+289,24,7,150.36844,37,0,8,13,Standard,PayPal,Sports,1
+290,33,33,143.3554518,38,0,4,18,Basic,PayPal,Movies,0
+291,43,23,181.7810401,49,0,2,14,Premium,Credit Card,Sports,0
+292,65,21,157.8077491,1,1,4,4,Basic,PayPal,TV Shows,1
+293,69,19,147.4626402,25,0,9,4,Premium,Debit,Sports,0
+294,66,19,31.47090608,51,0,3,20,Basic,PayPal,TV Shows,1
+295,19,29,167.8757981,36,0,7,20,Premium,PayPal,Movies,1
+296,18,18,123.3232206,17,1,4,19,Basic,Credit Card,TV Shows,1
+297,65,2,132.4996672,41,1,9,13,Premium,Debit,TV Shows,1
+298,29,1,132.7733276,24,0,7,12,Premium,Credit Card,TV Shows,1
+299,22,5,150.9533097,2,1,8,7,Premium,PayPal,Movies,1
+300,54,20,164.8870012,40,0,3,25,Premium,Credit Card,Movies,0
+301,49,11,145.3696457,15,0,6,12,Premium,Credit Card,Movies,1
+302,26,2,139.0114236,32,0,1,21,Standard,Credit Card,Movies,1
+303,58,3,129.2605096,39,0,5,4,Premium,Credit Card,Sports,1
+304,52,23,10,59,0,7,27,Standard,PayPal,Movies,1
+305,36,12,108.4963592,6,1,6,2,Premium,PayPal,TV Shows,1
+306,65,20,82.33641931,1,0,6,2,Standard,Debit,Movies,1
+307,33,5,168.4295816,47,0,7,5,Standard,Credit Card,Sports,1
+308,20,30,144.7614879,23,0,6,23,Basic,Credit Card,Sports,1
+309,37,9,101.6745205,58,0,4,10,Premium,Debit,Sports,0
+310,41,34,105.6913127,39,1,6,10,Basic,Credit Card,TV Shows,1
+311,50,35,104.2407455,57,0,9,9,Basic,Debit,Movies,1
+312,41,22,103.5269538,17,0,2,13,Premium,PayPal,Movies,1
+313,69,24,62.21770226,34,1,4,7,Basic,Debit,Movies,1
+314,28,17,53.54882027,59,0,6,5,Premium,Credit Card,TV Shows,1
+315,66,10,121.1618709,41,0,8,26,Basic,Debit,TV Shows,1
+316,25,30,163.0125656,29,0,1,10,Premium,PayPal,Sports,1
+317,53,23,98.4924121,9,0,3,10,Premium,Credit Card,Sports,0
+318,55,32,132.13779,13,1,6,6,Premium,PayPal,Movies,1
+319,57,17,149.3704367,6,1,0,27,Standard,PayPal,TV Shows,1
+320,37,17,80.26487178,6,0,1,28,Basic,Debit,TV Shows,1
+321,52,14,119.2009829,20,1,8,19,Standard,PayPal,Movies,1
+322,65,9,93.33918075,52,0,9,21,Basic,Credit Card,Movies,1
+323,42,2,184.2447797,53,0,6,8,Basic,PayPal,Sports,1
+324,52,25,182.4983803,3,0,9,1,Basic,PayPal,Sports,1
+325,42,9,80.30628641,17,0,6,28,Standard,Debit,Sports,1
+326,46,22,135.4353753,49,0,5,17,Basic,PayPal,Movies,1
+327,35,4,162.703972,12,0,2,7,Standard,Debit,Movies,1
+328,63,26,153.93318,48,1,9,14,Premium,Debit,Sports,1
+329,35,29,123.2625214,47,0,2,21,Basic,Credit Card,Sports,1
+330,19,34,172.2622985,45,0,1,21,Basic,Credit Card,TV Shows,1
+331,52,23,83.81941244,55,0,5,17,Premium,Credit Card,TV Shows,1
+332,33,11,107.8762822,1,0,3,9,Premium,Credit Card,Sports,1
+333,58,6,84.89430321,17,0,4,17,Basic,Debit,Sports,1
+334,53,18,151.2997398,3,0,2,5,Premium,PayPal,TV Shows,0
+335,50,21,96.69452503,26,1,5,26,Standard,Credit Card,Sports,1
+336,21,34,113.150033,15,0,2,25,Standard,Credit Card,TV Shows,1
+337,50,17,144.7068147,36,0,7,20,Basic,Credit Card,TV Shows,1
+338,31,25,147.9299966,32,0,8,29,Standard,PayPal,TV Shows,1
+339,38,12,83.71494615,32,0,3,8,Standard,Credit Card,Movies,1
+340,65,23,162.2662114,4,0,8,6,Basic,PayPal,Movies,1
+341,37,22,138.2275867,18,0,6,11,Premium,Debit,Sports,1
+342,25,21,76.73188642,49,0,2,19,Basic,Debit,TV Shows,1
+343,24,27,66.89136417,19,0,6,4,Standard,Debit,Movies,1
+344,20,31,119.3672116,43,0,0,18,Basic,PayPal,Sports,1
+345,34,6,154.0037596,52,0,2,1,Basic,Credit Card,Sports,0
+346,50,27,155.0286345,35,0,5,13,Standard,Credit Card,Sports,0
+347,65,34,134.2466751,40,1,3,14,Standard,Credit Card,Sports,1
+348,29,12,121.9469935,14,0,6,24,Basic,Credit Card,Sports,1
+349,68,7,140.4695068,58,1,2,1,Standard,Credit Card,TV Shows,1
+350,39,10,85.78677942,33,0,0,29,Standard,PayPal,Sports,0
+351,39,17,187.4795145,14,1,8,11,Standard,Debit,TV Shows,1
+352,63,26,186.9575367,34,0,5,17,Standard,Credit Card,Movies,1
+353,47,21,137.1524926,55,0,7,4,Standard,Debit,Sports,1
+354,55,28,127.8920168,4,0,2,26,Standard,PayPal,Movies,1
+355,55,2,103.5431611,24,1,7,12,Premium,PayPal,TV Shows,1
+356,62,1,141.1499538,59,0,1,10,Basic,Credit Card,TV Shows,1
+357,68,26,92.34730516,29,0,3,6,Standard,PayPal,Movies,0
+358,25,29,31.05551876,19,0,2,25,Basic,Debit,Sports,1
+359,44,21,11.43570798,6,1,9,1,Premium,Credit Card,Sports,1
+360,44,11,88.02006667,57,0,0,7,Standard,Credit Card,Movies,1
+361,51,11,126.2551249,33,1,6,26,Basic,Debit,Movies,1
+362,38,35,133.2788694,49,0,9,27,Standard,Credit Card,Movies,1
+363,47,34,100.5297197,40,0,1,21,Standard,Credit Card,Sports,1
+364,50,24,125.6734067,19,0,3,28,Standard,Debit,Sports,1
+365,45,22,109.0308657,53,1,8,16,Standard,Credit Card,Sports,1
+366,64,5,80.02748969,1,0,5,24,Standard,Credit Card,Movies,1
+367,50,33,117.8502196,5,1,7,14,Standard,Debit,Sports,1
+368,22,20,152.5182845,27,0,1,23,Standard,PayPal,TV Shows,0
+369,65,19,81.83753009,16,0,6,20,Premium,Debit,Movies,1
+370,36,35,81.85581548,6,0,5,20,Premium,Credit Card,Sports,0
+371,21,17,77.22997624,40,0,8,6,Standard,Debit,Movies,1
+372,52,34,42.53925062,13,1,6,22,Standard,Credit Card,TV Shows,1
+373,66,9,100.791905,48,1,0,25,Premium,Credit Card,TV Shows,1
+374,34,26,148.5634445,35,1,7,28,Premium,Debit,Movies,1
+375,61,2,126.9566434,19,0,9,5,Premium,Credit Card,Movies,1
+376,45,9,113.2299646,12,0,2,24,Standard,PayPal,TV Shows,1
+377,47,9,125.1625919,16,0,1,21,Basic,Credit Card,Movies,0
+378,46,17,100.4407405,59,1,2,18,Basic,Debit,TV Shows,1
+379,63,1,42.08453451,43,0,5,15,Basic,PayPal,TV Shows,1
+380,23,25,151.3487513,10,0,2,6,Basic,PayPal,Sports,0
+381,52,25,162.844983,25,0,9,25,Standard,Credit Card,Movies,1
+382,58,35,90.87372896,20,0,4,29,Basic,Debit,Movies,1
+383,54,3,113.9665752,31,1,5,19,Premium,Credit Card,Sports,1
+384,41,30,110.5200332,4,0,7,1,Premium,Credit Card,TV Shows,0
+385,46,34,134.0515524,44,0,6,1,Basic,Debit,Movies,1
+386,66,12,187.5957383,23,0,7,13,Premium,Debit,Sports,1
+387,63,19,166.3916498,2,0,2,3,Standard,Credit Card,Sports,0
+388,48,17,104.923431,56,0,3,10,Basic,PayPal,Movies,1
+389,52,10,141.6985545,22,0,5,21,Basic,Credit Card,Sports,1
+390,50,12,170.1742747,51,1,6,3,Standard,PayPal,TV Shows,1
+391,69,16,136.3338066,57,1,8,9,Premium,Credit Card,Sports,1
+392,38,24,119.8120238,37,0,0,8,Standard,Debit,TV Shows,0
+393,49,19,137.8400038,8,0,7,3,Standard,PayPal,TV Shows,1
+394,40,8,91.8691391,7,1,7,25,Premium,Debit,Movies,1
+395,50,31,97.70875504,14,0,5,13,Standard,Debit,Sports,0
+396,20,21,77.43863059,56,0,3,6,Premium,Debit,TV Shows,1
+397,35,17,132.2825807,55,0,2,13,Premium,Debit,TV Shows,0
+398,42,23,114.7438838,3,0,2,23,Standard,Debit,Sports,1
+399,59,16,87.07527755,50,0,5,20,Premium,Credit Card,TV Shows,1
+400,48,6,113.4328235,16,1,7,20,Standard,PayPal,Sports,1
+401,20,8,138.7999304,55,0,6,12,Premium,Credit Card,Movies,0
+402,57,25,196.5884922,19,0,0,13,Basic,Credit Card,TV Shows,1
+403,63,18,160.4827146,51,0,5,2,Premium,Credit Card,TV Shows,0
+404,41,25,28.6340857,18,0,6,21,Premium,Debit,Sports,1
+405,67,12,129.5723387,52,0,6,24,Standard,Credit Card,Sports,1
+406,49,15,177.1729705,16,1,8,23,Premium,PayPal,Sports,1
+407,64,26,66.48506035,8,1,9,16,Basic,Credit Card,Sports,1
+408,39,26,142.0623708,33,0,4,23,Basic,Debit,TV Shows,1
+409,40,32,110.5343126,49,1,0,6,Premium,PayPal,Movies,1
+410,19,10,166.0116212,12,1,1,19,Premium,PayPal,Movies,1
+411,44,16,136.1702878,53,1,3,21,Basic,PayPal,Movies,1
+412,59,7,84.63938182,11,0,4,13,Standard,PayPal,Movies,0
+413,19,17,111.9659409,5,0,8,17,Basic,Credit Card,Sports,1
+414,43,23,114.332173,27,0,0,23,Basic,Debit,TV Shows,0
+415,34,26,115.0728714,12,0,2,9,Premium,PayPal,TV Shows,0
+416,57,21,164.7705178,17,0,4,17,Premium,PayPal,TV Shows,1
+417,50,22,86.29520314,6,0,2,29,Basic,Debit,Sports,1
+418,26,7,160.1220524,33,1,3,2,Standard,Credit Card,TV Shows,1
+419,60,14,107.910013,5,1,2,19,Basic,PayPal,Sports,1
+420,65,15,128.9404443,57,1,3,19,Basic,Credit Card,TV Shows,1
+421,56,7,122.8951035,28,0,0,24,Standard,Credit Card,Movies,1
+422,46,9,119.1277865,14,0,7,7,Basic,Credit Card,Sports,1
+423,59,8,119.4558866,5,0,3,22,Basic,Credit Card,TV Shows,1
+424,43,23,178.2943423,54,0,6,10,Premium,PayPal,Movies,0
+425,52,29,153.697997,56,0,1,10,Standard,PayPal,Movies,0
+426,67,18,105.4913724,59,0,1,27,Premium,Credit Card,Movies,1
+427,42,31,183.3114902,33,0,5,20,Premium,Credit Card,Sports,0
+428,41,30,130.987243,50,1,1,9,Standard,Debit,Sports,1
+429,30,35,134.3049704,48,0,5,17,Standard,Debit,TV Shows,1
+430,24,18,86.50723683,41,0,1,27,Basic,Debit,Movies,1
+431,53,17,100.1000537,19,0,3,15,Premium,PayPal,TV Shows,0
+432,62,14,92.45985968,22,0,6,2,Standard,Debit,TV Shows,1
+433,37,31,123.4429146,5,0,7,4,Premium,PayPal,Movies,1
+434,18,24,145.5513232,59,0,2,19,Premium,PayPal,TV Shows,1
+435,25,35,134.689292,2,0,8,17,Standard,PayPal,Sports,1
+436,63,34,183.5217662,30,0,1,5,Basic,PayPal,TV Shows,1
+437,33,3,84.48967979,47,0,7,7,Premium,Debit,Movies,1
+438,31,26,124.5947617,39,0,7,18,Standard,Credit Card,Sports,1
+439,29,23,68.68242683,4,0,3,21,Basic,Credit Card,Sports,1
+440,68,15,83.12516114,33,1,0,22,Premium,Credit Card,TV Shows,1
+441,40,4,170.5831351,13,0,0,27,Standard,Debit,TV Shows,1
+442,32,29,101.4734053,20,0,1,7,Premium,Credit Card,Sports,0
+443,45,22,87.86544816,54,0,8,17,Standard,Debit,TV Shows,1
+444,51,25,34.80092498,7,1,1,7,Standard,Debit,Movies,1
+445,19,13,87.46581409,15,1,1,4,Premium,Debit,TV Shows,1
+446,49,18,111.788789,23,0,5,8,Premium,Credit Card,TV Shows,0
+447,40,33,65.70388161,14,0,6,13,Standard,Credit Card,Sports,1
+448,39,16,109.4886644,23,1,6,4,Basic,Credit Card,TV Shows,1
+449,68,2,170.8252424,19,0,8,6,Premium,PayPal,TV Shows,1
+450,42,35,91.70778639,54,0,5,25,Standard,Debit,TV Shows,1
+451,39,34,82.26467803,29,0,7,5,Standard,PayPal,Movies,1
+452,39,30,75.04394133,56,1,5,12,Basic,Debit,TV Shows,1
+453,66,13,74.3294363,20,1,1,4,Basic,Credit Card,Movies,1
+454,69,13,141.4230979,29,0,0,24,Basic,Debit,Movies,1
+455,59,18,121.9467495,24,0,4,29,Premium,Debit,Movies,1
+456,23,32,158.2742752,18,0,8,9,Standard,PayPal,Movies,1
+457,32,32,200.7935157,10,0,7,4,Standard,Debit,Sports,1
+458,60,35,46.78435472,41,1,3,19,Standard,Credit Card,Movies,1
+459,54,29,135.2031483,57,0,4,24,Basic,Debit,TV Shows,1
+460,50,29,75.25522662,8,0,4,14,Standard,Debit,Movies,1
+461,25,16,151.5559719,26,0,5,5,Premium,Debit,TV Shows,0
+462,61,10,109.12352,29,0,2,18,Basic,PayPal,Movies,0
+463,61,30,121.0929104,10,0,4,10,Basic,Debit,Sports,1
+464,22,25,68.67290288,17,0,1,25,Basic,Debit,Movies,1
+465,56,20,102.942919,2,0,9,19,Basic,PayPal,Movies,1
+466,21,5,123.58649,6,0,0,12,Premium,PayPal,Sports,1
+467,23,1,174.2431259,58,0,0,18,Standard,PayPal,Movies,1
+468,62,30,88.2175789,5,0,9,17,Premium,PayPal,TV Shows,1
+469,49,3,97.97233714,28,0,6,24,Standard,Credit Card,Movies,1
+470,69,14,157.7715857,41,1,1,11,Premium,Credit Card,Movies,0
+471,47,30,85.62638865,5,1,3,3,Basic,Debit,Movies,1
+472,64,4,165.6954058,18,1,4,23,Basic,Credit Card,Sports,1
+473,52,18,119.636537,26,0,6,17,Premium,Debit,Movies,1
+474,57,25,132.1249185,20,1,1,1,Premium,Credit Card,Movies,0
+475,69,1,134.7008921,41,0,5,15,Standard,PayPal,TV Shows,1
+476,33,15,95.35117786,49,0,0,28,Premium,PayPal,Movies,0
+477,30,9,135.5954728,27,0,6,9,Premium,Credit Card,Movies,1
+478,67,15,89.10520863,49,0,8,15,Standard,Credit Card,Movies,1
+479,59,24,99.91587984,12,0,4,28,Standard,Debit,Movies,1
+480,47,4,142.3476386,7,0,4,24,Standard,Debit,TV Shows,1
+481,36,12,131.7357582,59,0,3,28,Premium,Debit,TV Shows,0
+482,34,6,117.001402,3,0,2,29,Standard,PayPal,Sports,1
+483,36,24,69.65073403,10,0,8,3,Basic,PayPal,Movies,1
+484,45,11,79.63366843,34,0,4,22,Basic,PayPal,Sports,1
+485,43,13,131.0683618,25,0,7,27,Basic,PayPal,Sports,1
+486,54,34,149.2856225,35,1,8,19,Premium,Debit,Movies,1
+487,43,25,75.61417982,16,1,4,13,Basic,PayPal,TV Shows,1
+488,40,7,86.4069901,2,0,9,12,Premium,PayPal,TV Shows,1
+489,26,4,125.367407,24,0,8,20,Premium,PayPal,Movies,1
+490,29,8,124.5115145,10,0,1,1,Basic,PayPal,Movies,1
+491,18,20,55.04171165,38,1,8,21,Standard,Credit Card,TV Shows,1
+492,18,29,126.4625205,22,0,3,17,Premium,Debit,Movies,1
+493,64,10,96.06528759,26,0,5,13,Basic,Debit,Movies,1
+494,51,34,185.6418652,43,0,5,1,Premium,PayPal,Movies,1
+495,49,26,129.9679417,55,0,5,10,Standard,Credit Card,TV Shows,0
+496,65,3,136.858938,39,0,1,15,Standard,Debit,Sports,1
+497,42,6,137.8943721,27,1,6,27,Basic,Debit,Sports,1
+498,57,5,71.44290477,29,0,5,27,Premium,PayPal,Movies,1
+499,62,5,197.7550757,47,0,0,7,Premium,PayPal,TV Shows,1
+500,18,23,55.0835501,38,1,1,28,Premium,Debit,Movies,1
+501,33,9,151.8281257,20,1,6,22,Premium,Debit,TV Shows,1
+502,56,35,144.7465575,27,0,0,18,Basic,Credit Card,Movies,1
+503,22,20,100.9199048,41,0,0,16,Standard,Debit,TV Shows,1
+504,39,35,146.6580127,54,0,0,14,Basic,Debit,TV Shows,1
+505,46,18,107.297072,20,1,7,27,Premium,PayPal,Sports,1
+506,20,17,92.98154221,44,0,3,28,Premium,Debit,Movies,1
+507,29,24,138.7823668,19,1,3,18,Standard,PayPal,Sports,1
+508,43,3,79.73756036,20,0,1,27,Premium,Debit,Sports,1
+509,33,32,111.0297936,35,0,0,7,Basic,Debit,TV Shows,1
+510,68,35,96.23293005,47,0,9,17,Basic,Debit,Movies,1
+511,54,13,106.5608196,2,0,8,29,Standard,Credit Card,TV Shows,1
+512,39,25,137.309144,30,0,6,18,Basic,PayPal,TV Shows,1
+513,46,9,96.22534511,53,0,3,12,Basic,Credit Card,TV Shows,1
+514,31,4,112.3070435,34,0,5,8,Basic,Debit,Movies,1
+515,45,14,99.87418992,22,1,1,22,Basic,Credit Card,Movies,1
+516,22,34,177.7598666,3,0,6,2,Premium,PayPal,TV Shows,0
+517,64,11,133.7044959,6,0,1,7,Basic,Debit,Movies,0
+518,66,3,128.8027853,15,0,9,4,Standard,Credit Card,TV Shows,1
+519,47,28,147.3367402,27,0,7,18,Standard,Credit Card,Movies,1
+520,63,29,96.23461693,10,0,7,28,Basic,PayPal,Movies,1
+521,69,9,154.370289,9,0,0,6,Standard,Credit Card,Sports,1
+522,22,3,133.8471098,33,1,7,27,Basic,PayPal,TV Shows,1
+523,29,25,57.56436389,32,0,1,9,Standard,Debit,Sports,1
+524,33,34,62.87876668,48,0,5,27,Standard,Debit,Sports,1
+525,43,12,97.10811789,6,0,0,9,Basic,Credit Card,TV Shows,0
+526,43,9,67.15974017,41,0,4,14,Basic,Debit,TV Shows,1
+527,65,15,110.4688616,59,0,6,8,Premium,Debit,Movies,1
+528,38,25,79.45048034,36,1,9,19,Basic,Credit Card,TV Shows,1
+529,56,5,116.0910779,59,1,0,3,Basic,Debit,Sports,1
+530,53,11,176.468375,2,0,1,18,Premium,Credit Card,Sports,0
+531,50,34,118.0249239,29,0,6,5,Basic,PayPal,TV Shows,1
+532,47,24,107.8814218,4,0,5,14,Basic,PayPal,Sports,1
+533,54,15,135.5297059,1,0,2,28,Premium,PayPal,Movies,1
+534,40,8,92.14320828,19,0,9,4,Basic,Credit Card,Sports,1
+535,27,5,153.7365724,26,0,1,7,Basic,Credit Card,Movies,1
+536,22,26,139.8085181,25,0,9,20,Premium,Debit,Sports,1
+537,53,18,121.5546225,10,0,3,25,Premium,Debit,Movies,0
+538,51,6,126.1726333,53,0,2,28,Standard,Debit,Movies,1
+539,69,13,201.6698364,15,0,6,12,Basic,Debit,TV Shows,1
+540,48,28,157.6924884,59,0,7,2,Standard,Debit,Movies,1
+541,27,5,207.9810652,22,0,1,11,Standard,Credit Card,TV Shows,1
+542,36,13,141.2812077,51,1,9,14,Premium,Credit Card,Sports,1
+543,49,17,61.13234229,48,0,6,22,Basic,PayPal,Sports,1
+544,18,32,109.5130519,21,0,7,23,Basic,PayPal,Sports,1
+545,22,29,51.99180502,59,0,5,16,Premium,PayPal,Movies,0
+546,62,3,141.1321214,56,1,5,20,Standard,PayPal,Sports,1
+547,21,34,149.8161679,22,0,9,29,Premium,Credit Card,Sports,1
+548,33,27,84.56336016,36,0,0,6,Basic,Credit Card,TV Shows,0
+549,41,13,93.77454481,34,0,3,23,Premium,Credit Card,TV Shows,1
+550,33,33,125.9500358,30,0,0,4,Basic,Debit,Sports,1
+551,19,6,72.07583747,25,1,3,15,Standard,Debit,Sports,1
+552,66,24,69.07360923,45,0,1,24,Basic,PayPal,Movies,1
+553,45,19,169.5452819,28,1,4,25,Standard,Debit,Movies,1
+554,49,16,124.5884247,1,1,9,1,Standard,Credit Card,Sports,1
+555,44,28,97.67562569,49,1,8,7,Basic,PayPal,TV Shows,1
+556,37,33,52.31524446,45,0,9,25,Basic,PayPal,Sports,1
+557,41,13,154.0940543,4,0,2,12,Standard,Debit,Movies,0
+558,29,25,92.61927151,7,0,7,10,Premium,PayPal,TV Shows,1
+559,67,27,194.4273778,49,1,2,5,Basic,Debit,TV Shows,1
+560,52,7,154.3724039,9,0,5,12,Standard,Debit,Movies,1
+561,50,5,87.67432582,36,0,3,18,Standard,PayPal,Sports,1
+562,50,31,91.38113211,19,0,7,10,Premium,Debit,Sports,1
+563,68,23,188.8740465,1,0,5,6,Basic,Debit,Sports,0
+564,60,10,116.6296221,10,1,7,28,Standard,Debit,Movies,1
+565,54,32,99.46755087,36,0,0,12,Premium,Debit,TV Shows,0
+566,29,30,121.1088675,9,1,5,7,Standard,PayPal,Movies,1
+567,20,31,99.283494,45,0,0,18,Basic,Credit Card,Sports,1
+568,18,18,129.6419391,46,1,0,2,Premium,Credit Card,Movies,1
+569,50,2,116.9670551,42,0,7,10,Standard,Debit,TV Shows,1
+570,57,14,155.0203192,32,0,6,15,Premium,Debit,Movies,1
+571,27,13,104.4570359,32,1,2,12,Basic,Debit,Sports,1
+572,60,29,84.60734533,6,0,5,26,Premium,Credit Card,TV Shows,0
+573,61,12,106.0406121,48,1,8,17,Basic,Debit,Movies,1
+574,46,2,105.7966441,38,0,6,4,Standard,PayPal,Movies,1
+575,30,32,116.8986474,17,0,2,7,Basic,PayPal,TV Shows,1
+576,29,13,145.3816115,10,0,5,9,Standard,PayPal,TV Shows,0
+577,48,27,143.1963587,50,0,3,19,Standard,Credit Card,Sports,1
+578,63,17,167.986347,27,0,2,28,Basic,Debit,TV Shows,1
+579,19,31,87.54041289,54,0,8,27,Standard,Debit,Sports,1
+580,68,34,135.5488049,50,0,9,23,Premium,Debit,Movies,1
+581,67,24,149.0927939,35,0,1,7,Standard,Credit Card,Sports,1
+582,52,35,93.03118375,52,1,0,23,Basic,Credit Card,Movies,1
+583,40,6,111.6947579,59,1,1,2,Premium,Credit Card,TV Shows,1
+584,34,19,50.00088503,21,0,6,6,Premium,Credit Card,Movies,1
+585,43,30,156.2743078,25,0,9,18,Standard,PayPal,TV Shows,1
+586,25,7,111.3800719,28,0,0,6,Standard,Credit Card,Movies,0
+587,46,10,152.2625671,47,0,5,13,Basic,Credit Card,Movies,1
+588,43,32,128.2419807,15,1,6,26,Premium,Credit Card,Movies,1
+589,27,34,112.5933908,4,1,8,19,Basic,Debit,Movies,1
+590,43,28,56.28788803,29,0,7,2,Standard,Debit,Sports,1
+591,51,15,63.40189557,59,1,5,12,Premium,Debit,Movies,1
+592,68,30,16.27415263,9,0,2,15,Basic,PayPal,Sports,1
+593,58,29,97.49546069,27,1,7,14,Basic,PayPal,TV Shows,1
+594,24,22,211.1299481,26,0,6,6,Basic,Credit Card,TV Shows,1
+595,21,4,68.48210442,19,0,2,18,Basic,Debit,Sports,1
+596,67,20,14.74272466,56,0,8,5,Basic,PayPal,TV Shows,1
+597,62,32,158.5067568,28,0,1,18,Premium,Debit,TV Shows,0
+598,28,4,214.5487148,17,0,2,3,Basic,PayPal,Movies,1
+599,46,27,131.9168426,43,1,1,3,Premium,PayPal,Movies,0
+600,53,17,131.5492958,57,0,0,22,Basic,Credit Card,Movies,1
+601,42,12,107.6047171,41,0,3,22,Standard,Credit Card,Sports,1
+602,38,22,48.22971078,42,0,4,10,Standard,PayPal,Sports,1
+603,53,17,61.97152329,50,0,5,19,Basic,Credit Card,TV Shows,1
+604,27,10,107.3298668,20,0,4,3,Standard,PayPal,Movies,0
+605,54,1,99.6617864,45,0,0,29,Premium,PayPal,Sports,1
+606,26,22,115.3930829,40,0,2,12,Basic,Debit,Sports,0
+607,41,26,153.172993,39,0,0,29,Premium,Credit Card,Movies,0
+608,52,18,96.72648672,49,0,4,16,Basic,Credit Card,Sports,1
+609,66,14,153.9886703,53,1,4,17,Standard,Credit Card,Movies,1
+610,52,29,96.9884116,23,1,5,7,Premium,Debit,TV Shows,0
+611,65,12,161.5295837,47,0,7,13,Standard,Debit,TV Shows,1
+612,53,35,123.4547027,32,0,9,24,Standard,Debit,TV Shows,1
+613,35,12,102.5667864,52,0,0,2,Basic,Credit Card,Movies,1
+614,66,7,122.7717624,47,0,3,4,Premium,Credit Card,Sports,0
+615,56,29,108.2584463,33,0,9,10,Standard,Credit Card,TV Shows,1
+616,49,11,124.5253695,57,0,0,7,Basic,Debit,TV Shows,0
+617,41,33,150.3242479,46,0,8,24,Basic,Debit,TV Shows,1
+618,40,6,116.5113761,5,0,6,17,Basic,PayPal,Sports,1
+619,49,15,105.2172459,43,0,6,20,Standard,Debit,Sports,1
+620,54,32,75.0593518,48,1,4,6,Basic,PayPal,Movies,1
+621,29,11,143.1671208,34,1,6,19,Premium,Credit Card,TV Shows,1
+622,66,23,133.9308891,40,0,1,5,Premium,Debit,Sports,0
+623,30,26,72.72228596,11,0,3,10,Standard,Credit Card,Movies,1
+624,40,34,153.4197711,50,1,6,9,Premium,Credit Card,TV Shows,1
+625,42,34,72.0726387,3,1,2,27,Basic,Credit Card,Sports,1
+626,52,29,161.1688716,58,0,1,13,Standard,Credit Card,Sports,1
+627,58,4,147.5145331,33,0,9,19,Basic,Debit,Movies,1
+628,47,17,136.7866209,11,0,1,21,Standard,Credit Card,TV Shows,1
+629,34,35,104.9201936,16,0,0,24,Standard,PayPal,TV Shows,1
+630,66,13,143.0311913,18,0,4,6,Basic,Debit,Sports,1
+631,37,15,163.0548798,30,0,5,4,Premium,Credit Card,TV Shows,0
+632,65,29,143.6940768,48,0,5,24,Premium,Debit,Movies,0
+633,42,29,93.18999913,55,0,8,27,Standard,PayPal,Sports,1
+634,39,11,130.6962793,10,1,3,3,Basic,Credit Card,Sports,1
+635,30,32,165.2813995,18,0,0,3,Basic,PayPal,Movies,1
+636,36,2,207.9639272,38,0,5,4,Standard,Credit Card,Sports,1
+637,66,14,111.791481,19,0,4,25,Premium,PayPal,TV Shows,1
+638,53,20,154.3153242,36,0,9,5,Basic,Credit Card,TV Shows,1
+639,29,22,165.3792208,59,1,5,8,Premium,Debit,Sports,1
+640,58,11,87.50380004,13,0,2,16,Premium,Credit Card,Movies,0
+641,36,27,191.2831327,56,0,1,22,Standard,Debit,Movies,1
+642,29,3,77.39261264,46,0,5,3,Standard,Credit Card,TV Shows,1
+643,26,17,152.3594206,3,0,0,24,Premium,Credit Card,Movies,1
+644,24,28,132.2127912,10,1,6,12,Basic,PayPal,Sports,1
+645,45,29,122.2230224,38,0,6,25,Basic,PayPal,Sports,1
+646,31,21,221.8733313,1,0,9,8,Standard,PayPal,TV Shows,1
+647,48,16,107.9497906,55,0,6,13,Premium,Credit Card,TV Shows,0
+648,69,20,107.3061763,56,0,9,4,Basic,Credit Card,TV Shows,1
+649,36,6,173.2591523,27,1,0,14,Basic,Credit Card,Movies,1
+650,64,19,150.4721511,46,1,3,14,Standard,Debit,Sports,1
+651,33,5,171.2839568,8,0,6,13,Premium,Debit,Sports,1
+652,22,3,124.6747753,51,0,8,27,Basic,Credit Card,Sports,1
+653,52,1,132.6777047,46,1,4,6,Standard,PayPal,TV Shows,1
+654,29,15,196.0374245,42,1,1,17,Basic,PayPal,Sports,1
+655,42,34,86.56183682,17,0,6,4,Basic,PayPal,Movies,1
+656,69,35,115.8849182,9,0,9,8,Basic,Credit Card,Movies,1
+657,38,25,151.9301629,6,0,0,17,Standard,PayPal,Sports,0
+658,53,24,112.1655672,43,1,6,3,Premium,Credit Card,TV Shows,1
+659,40,12,97.19416483,25,0,5,17,Standard,Debit,Sports,1
+660,33,18,144.7393805,39,0,6,9,Premium,PayPal,Movies,1
+661,56,15,173.4322267,49,1,9,2,Basic,Debit,Movies,1
+662,62,16,114.3666255,28,0,2,25,Premium,PayPal,Movies,1
+663,59,27,113.2564152,33,0,2,13,Basic,Credit Card,Sports,0
+664,56,8,94.09247897,54,0,6,20,Basic,Credit Card,Movies,1
+665,31,25,108.1609263,37,0,1,2,Standard,Credit Card,TV Shows,0
+666,48,17,163.3442432,9,0,0,20,Basic,Credit Card,Sports,1
+667,22,29,123.2425148,18,0,8,28,Standard,PayPal,Sports,1
+668,52,8,87.80037356,56,0,8,11,Premium,Debit,Movies,1
+669,40,15,130.4944952,59,0,6,27,Premium,Credit Card,Movies,1
+670,46,27,162.0477604,21,1,6,26,Basic,PayPal,TV Shows,1
+671,60,7,97.52457346,2,1,2,22,Standard,Debit,Sports,1
+672,28,3,66.85579122,58,0,9,15,Basic,Credit Card,Movies,1
+673,35,29,207.6330064,43,0,1,11,Standard,Debit,TV Shows,0
+674,64,24,64.858826,59,0,6,23,Standard,Credit Card,Movies,1
+675,29,3,105.6390974,38,0,8,3,Standard,Debit,Sports,1
+676,26,20,129.2851405,58,0,0,3,Premium,Debit,Movies,0
+677,27,15,109.102892,40,0,3,28,Standard,Credit Card,Sports,1
+678,61,25,117.0035662,36,0,5,26,Premium,PayPal,Movies,1
+679,34,30,143.0735267,50,0,6,12,Standard,Debit,Sports,1
+680,55,14,24.33113369,43,0,9,24,Premium,Credit Card,TV Shows,1
+681,24,7,69.32422114,37,0,6,5,Premium,Debit,Sports,1
+682,63,17,121.7703754,15,0,9,20,Premium,Debit,TV Shows,1
+683,30,20,103.8313195,28,0,1,7,Basic,PayPal,Sports,1
+684,57,9,125.1764503,18,0,3,7,Standard,Debit,TV Shows,0
+685,59,22,129.1061313,34,1,4,13,Basic,Debit,Movies,1
+686,26,2,35.36320018,22,1,0,9,Standard,Credit Card,Sports,1
+687,67,24,170.9456133,11,0,0,25,Standard,Credit Card,Movies,0
+688,44,8,100.0692847,58,0,9,21,Basic,PayPal,TV Shows,1
+689,19,11,85.37947261,57,0,2,13,Premium,Debit,Sports,1
+690,22,13,128.3342118,13,0,9,12,Standard,Debit,Sports,1
+691,46,17,124.2864091,4,0,2,13,Premium,Debit,Movies,0
+692,54,8,167.8676327,22,1,7,24,Basic,PayPal,Sports,1
+693,55,21,130.8749265,7,0,8,10,Premium,Debit,Sports,1
+694,36,18,166.3244339,43,1,0,1,Standard,Credit Card,Movies,1
+695,25,30,82.47290498,54,0,1,25,Standard,PayPal,Sports,1
+696,65,18,125.6744422,24,0,9,8,Standard,Credit Card,Movies,1
+697,62,31,75.41009171,4,0,1,22,Basic,Credit Card,Movies,1
+698,18,32,123.9070342,28,0,3,16,Standard,PayPal,Movies,0
+699,39,11,115.4284818,15,0,1,13,Basic,Credit Card,Movies,0
+700,69,25,113.708103,1,0,6,3,Premium,Debit,Movies,1
+701,34,33,114.0588979,55,0,8,3,Standard,PayPal,TV Shows,1
+702,24,8,149.4555788,3,1,6,24,Standard,Credit Card,TV Shows,1
+703,42,11,55.70561372,14,0,5,5,Standard,Debit,Movies,1
+704,62,22,84.00848549,38,1,9,26,Premium,Debit,TV Shows,1
+705,21,24,118.3771269,50,1,0,11,Standard,Credit Card,TV Shows,1
+706,53,17,72.85347642,57,1,9,7,Basic,Debit,Sports,1
+707,23,12,121.8445642,1,0,8,21,Premium,PayPal,Movies,1
+708,48,32,117.9658992,38,0,4,24,Premium,Credit Card,TV Shows,1
+709,36,15,63.8497342,38,1,4,10,Premium,Debit,Sports,1
+710,61,16,61.87339415,21,0,5,10,Premium,Debit,Sports,0
+711,56,22,15.04847058,48,0,8,20,Premium,Credit Card,Movies,1
+712,44,28,71.17319801,29,0,7,2,Basic,Credit Card,Movies,1
+713,27,20,120.5729303,5,0,7,3,Premium,Credit Card,Sports,1
+714,43,33,126.2475129,49,0,7,8,Standard,Credit Card,Movies,1
+715,36,10,128.0759824,10,0,0,11,Premium,PayPal,Movies,0
+716,56,32,88.88324749,28,0,0,13,Premium,Credit Card,Sports,0
+717,20,33,119.2678606,21,1,7,7,Premium,PayPal,Sports,1
+718,62,2,135.8897844,50,0,4,13,Premium,PayPal,Movies,0
+719,30,33,69.27857802,7,1,8,2,Premium,Credit Card,TV Shows,1
+720,67,33,124.933163,3,0,1,6,Basic,PayPal,Movies,0
+721,45,13,146.2592485,45,1,8,9,Basic,Credit Card,TV Shows,1
+722,37,30,100.3691148,47,0,7,20,Premium,Credit Card,Sports,1
+723,45,33,162.4893732,20,1,8,25,Basic,Debit,TV Shows,1
+724,25,13,101.3026262,19,0,3,2,Standard,Credit Card,Sports,0
+725,58,26,85.5975658,35,1,0,18,Premium,Debit,Movies,1
+726,56,22,142.2736471,4,0,0,16,Standard,PayPal,Movies,1
+727,18,2,201.3317508,5,1,4,25,Standard,Debit,Sports,1
+728,20,26,123.4141448,1,1,1,12,Premium,PayPal,Sports,1
+729,30,15,145.3963122,4,0,7,7,Standard,Credit Card,Sports,1
+730,45,34,99.65131116,12,0,9,7,Standard,PayPal,Movies,1
+731,66,11,70.33535121,27,1,4,17,Standard,PayPal,Movies,1
+732,42,3,126.6506258,56,0,4,13,Premium,Credit Card,TV Shows,0
+733,50,6,132.9759989,42,1,1,11,Premium,PayPal,Sports,1
+734,55,9,105.6835564,23,0,6,6,Standard,Credit Card,TV Shows,1
+735,23,6,145.2422607,25,0,7,29,Premium,Debit,Movies,1
+736,61,9,93.83679961,21,1,9,23,Premium,Credit Card,TV Shows,1
+737,62,31,83.91654937,58,0,0,27,Standard,Credit Card,TV Shows,1
+738,49,32,162.4257172,52,1,1,14,Premium,PayPal,Movies,1
+739,62,12,162.6139051,24,0,9,6,Basic,Debit,Movies,1
+740,64,8,94.62627577,25,0,3,6,Premium,Credit Card,Sports,0
+741,38,8,188.7540196,45,0,4,2,Basic,Debit,TV Shows,0
+742,33,28,108.5157323,55,0,1,22,Standard,Debit,Movies,1
+743,38,20,123.3913146,46,0,0,20,Premium,PayPal,Movies,0
+744,28,7,116.6138983,32,0,8,25,Standard,Credit Card,TV Shows,1
+745,54,11,140.9504087,55,0,0,15,Standard,PayPal,Movies,1
+746,53,20,130.8568598,32,0,3,28,Standard,Credit Card,Sports,1
+747,52,16,130.3184865,5,1,1,17,Standard,Debit,Sports,1
+748,36,4,79.21753473,36,0,3,29,Standard,Credit Card,TV Shows,1
+749,37,6,52.45750733,46,0,7,8,Premium,Credit Card,Sports,1
+750,35,22,165.6864011,42,0,7,5,Basic,Debit,Movies,1
+751,64,26,98.18216004,49,0,8,17,Premium,Debit,Movies,1
+752,58,3,118.0386651,42,0,4,20,Premium,Credit Card,Movies,1
+753,66,14,133.0719564,58,0,6,1,Premium,PayPal,Movies,1
+754,31,11,185.1603841,39,0,2,22,Premium,Credit Card,TV Shows,1
+755,32,18,126.454317,16,0,9,18,Basic,Debit,Sports,1
+756,48,12,104.2080975,33,0,3,15,Premium,PayPal,Sports,0
+757,18,23,99.05822475,49,1,9,5,Standard,Debit,Movies,1
+758,20,12,118.5057264,21,0,8,7,Premium,Debit,TV Shows,1
+759,33,13,83.62540921,9,0,9,18,Premium,PayPal,Movies,1
+760,40,25,121.1550289,6,0,9,6,Basic,Debit,Movies,1
+761,28,19,117.9192125,51,0,0,22,Basic,Debit,TV Shows,0
+762,29,8,185.6610779,45,1,1,21,Standard,Debit,TV Shows,1
+763,27,29,116.6559545,35,0,4,5,Premium,Debit,Movies,1
+764,49,32,43.02047356,39,0,2,19,Premium,Debit,Sports,1
+765,33,18,226.9404388,22,0,1,10,Premium,Debit,Movies,0
+766,25,6,158.2733492,41,0,0,15,Standard,Debit,Sports,0
+767,55,18,203.2939498,54,0,9,10,Basic,Debit,Sports,1
+768,29,19,73.70720052,5,0,2,27,Standard,Debit,TV Shows,1
+769,41,22,111.1269287,42,0,0,16,Premium,Credit Card,TV Shows,0
+770,45,32,146.9760497,23,0,0,12,Basic,Credit Card,Movies,1
+771,25,3,141.4556549,17,0,0,18,Basic,Debit,Sports,1
+772,45,28,132.2775083,12,0,7,23,Standard,Credit Card,Sports,1
+773,53,10,32.01557126,23,0,2,1,Basic,PayPal,Movies,0
+774,43,35,51.5024217,16,0,0,16,Basic,Credit Card,Movies,1
+775,25,29,180.7008044,3,1,6,22,Premium,Debit,Movies,1
+776,67,15,187.8131813,30,0,9,6,Premium,Debit,TV Shows,1
+777,45,33,115.7339483,57,1,2,3,Basic,Credit Card,Movies,1
+778,45,7,175.617099,22,0,7,2,Basic,Debit,Movies,1
+779,54,12,79.07088935,9,0,3,28,Standard,PayPal,Sports,1
+780,58,30,88.22295786,29,0,3,2,Standard,PayPal,Movies,1
+781,53,21,75.90878713,47,0,4,13,Basic,Debit,Sports,1
+782,44,31,86.00321817,37,0,5,9,Premium,PayPal,Sports,0
+783,34,24,148.9078404,23,0,6,16,Basic,PayPal,TV Shows,1
+784,26,20,85.50590508,13,0,3,27,Basic,Credit Card,Movies,1
+785,50,4,209.5897216,32,1,7,5,Premium,PayPal,Movies,1
+786,37,28,138.4028243,46,0,5,23,Premium,Credit Card,Sports,0
+787,30,20,163.3810819,52,0,0,28,Standard,Debit,TV Shows,1
+788,45,24,139.5976233,47,0,0,21,Standard,Credit Card,TV Shows,1
+789,65,32,168.570786,48,0,8,7,Standard,Debit,Movies,0
+790,46,34,85.28000002,23,0,9,13,Standard,Debit,Sports,1
+791,30,2,177.8773415,45,0,5,20,Premium,Debit,Movies,1
+792,63,15,125.6375554,17,1,9,24,Basic,Debit,Movies,1
+793,52,34,168.3706444,55,1,7,29,Standard,Debit,Movies,1
+794,23,6,62.41743786,40,0,6,27,Standard,Credit Card,Movies,1
+795,35,12,127.2233283,21,0,5,26,Premium,Debit,Sports,1
+796,68,3,125.8095487,2,1,3,13,Premium,PayPal,TV Shows,0
+797,22,18,95.2305414,37,0,6,27,Basic,PayPal,Movies,1
+798,64,21,132.5247532,6,0,8,26,Basic,Debit,Movies,1
+799,42,15,181.5842739,44,0,9,7,Premium,PayPal,Movies,1
+800,19,33,92.15390564,18,0,9,10,Standard,Credit Card,Movies,1
+801,27,35,158.4741742,30,0,6,15,Standard,Credit Card,TV Shows,1
+802,47,26,74.90307775,22,0,0,21,Standard,Debit,TV Shows,1
+803,67,8,204.3777838,54,0,9,27,Basic,Debit,TV Shows,1
+804,62,30,151.3840127,33,0,8,6,Standard,Debit,TV Shows,1
+805,22,23,189.0046933,30,0,3,5,Standard,PayPal,Movies,0
+806,50,14,146.8824208,17,0,2,23,Premium,PayPal,Sports,0
+807,18,14,135.6245271,43,0,3,28,Standard,Credit Card,TV Shows,1
+808,35,2,151.7173176,32,0,3,2,Premium,PayPal,TV Shows,1
+809,49,5,114.5421015,42,0,9,21,Standard,Credit Card,Movies,1
+810,64,14,55.28664378,51,0,1,15,Basic,PayPal,Movies,1
+811,66,25,137.8959739,14,0,0,26,Standard,Credit Card,Movies,0
+812,28,20,89.77986662,58,1,9,16,Standard,Debit,Movies,1
+813,38,2,75.93352338,10,1,0,19,Premium,PayPal,Sports,1
+814,43,6,145.4517267,47,0,7,9,Premium,Credit Card,Sports,1
+815,42,17,108.835661,51,0,1,29,Premium,PayPal,TV Shows,0
+816,39,25,161.1081763,36,0,9,22,Standard,Debit,Sports,1
+817,44,28,88.44236925,34,0,4,29,Standard,Credit Card,TV Shows,1
+818,66,2,101.1668409,9,1,3,26,Basic,PayPal,TV Shows,1
+819,30,35,166.0118411,42,0,7,19,Standard,PayPal,Sports,1
+820,50,5,131.1937064,28,0,1,7,Basic,Debit,TV Shows,0
+821,51,1,60.90687836,11,0,9,4,Premium,Debit,Movies,1
+822,58,12,130.3104353,14,0,8,3,Premium,Credit Card,TV Shows,0
+823,52,23,179.2495419,39,0,6,24,Premium,PayPal,Movies,0
+824,18,31,100.8569022,55,0,6,29,Basic,PayPal,Sports,1
+825,38,11,143.9223079,47,0,0,20,Standard,Debit,Sports,0
+826,65,10,86.02452339,54,1,1,11,Premium,Debit,TV Shows,0
+827,23,3,114.528669,19,1,3,1,Standard,Credit Card,Movies,1
+828,45,14,163.5934215,54,0,3,6,Standard,PayPal,TV Shows,0
+829,34,16,128.7692667,15,0,2,26,Premium,PayPal,Sports,0
+830,22,10,171.5707945,28,0,6,11,Basic,Credit Card,TV Shows,1
+831,48,29,137.0120962,24,0,7,27,Standard,Credit Card,TV Shows,1
+832,22,10,208.7495871,8,0,1,1,Premium,Debit,Movies,0
+833,55,12,57.40346523,43,0,3,21,Standard,Debit,Sports,1
+834,20,30,111.312266,9,0,2,7,Standard,Credit Card,TV Shows,0
+835,40,1,76.61864827,47,0,1,6,Standard,Credit Card,Movies,1
+836,54,5,79.35003302,33,0,5,14,Standard,PayPal,TV Shows,1
+837,54,20,79.71265225,33,0,3,2,Standard,Credit Card,Movies,1
+838,27,8,126.7090329,19,0,5,27,Basic,Credit Card,Movies,1
+839,27,12,129.0520374,3,0,1,4,Basic,PayPal,TV Shows,1
+840,36,1,137.098237,10,1,3,11,Premium,Credit Card,Sports,1
+841,34,20,75.07757759,40,0,5,15,Basic,Debit,Sports,0
+842,38,28,107.0310072,47,0,4,18,Basic,Debit,Movies,1
+843,31,12,81.42821441,42,1,2,27,Basic,PayPal,Sports,1
+844,26,28,157.4352623,1,1,7,1,Standard,Credit Card,Movies,1
+845,63,15,85.18929799,29,0,6,3,Standard,Debit,Sports,1
+846,18,6,111.4515139,50,1,2,3,Premium,Debit,TV Shows,1
+847,68,20,142.4122577,34,0,5,28,Premium,Debit,Sports,1
+848,62,14,95.37485302,51,0,3,7,Premium,Debit,Movies,0
+849,30,2,147.7551378,13,0,4,1,Standard,Credit Card,Movies,1
+850,21,9,183.8431894,54,0,4,25,Basic,Credit Card,Sports,1
+851,18,20,127.5884691,1,0,6,11,Basic,Credit Card,TV Shows,1
+852,66,26,156.0644366,34,0,4,6,Standard,Credit Card,Movies,1
+853,57,29,37.06316444,29,0,2,20,Premium,Debit,Movies,1
+854,49,1,102.8379229,48,0,9,3,Premium,PayPal,Movies,1
+855,51,35,127.3960327,47,0,4,19,Premium,PayPal,Movies,1
+856,45,6,77.88139686,13,0,6,2,Standard,Debit,Movies,1
+857,48,5,128.3059734,48,0,4,18,Premium,Debit,TV Shows,0
+858,25,33,162.3976222,49,0,4,12,Premium,PayPal,Sports,1
+859,56,14,44.81757488,53,1,8,29,Standard,PayPal,TV Shows,1
+860,43,12,72.43708537,29,1,2,10,Basic,Debit,TV Shows,1
+861,51,20,127.3925308,39,0,5,5,Standard,Debit,Movies,0
+862,20,24,138.4167892,24,0,0,9,Standard,Credit Card,TV Shows,0
+863,67,34,149.523215,26,0,9,2,Standard,Credit Card,Movies,1
+864,29,25,124.4355792,17,0,4,2,Standard,PayPal,TV Shows,0
+865,18,29,138.4604962,7,0,7,28,Basic,Debit,Movies,1
+866,61,31,156.1392283,13,0,4,6,Premium,PayPal,Movies,0
+867,22,23,103.4216759,5,0,8,29,Standard,Credit Card,TV Shows,1
+868,47,20,95.65655656,26,0,5,10,Basic,Credit Card,TV Shows,0
+869,47,23,113.2597348,49,1,7,18,Premium,PayPal,Sports,1
+870,34,16,127.9795177,3,0,9,12,Premium,Credit Card,Sports,0
+871,65,8,93.66906227,7,0,7,4,Premium,Debit,Sports,1
+872,64,21,104.2497073,58,1,2,22,Standard,PayPal,TV Shows,1
+873,40,1,135.9080708,49,0,6,21,Standard,Debit,TV Shows,1
+874,32,8,126.3100312,39,0,6,17,Premium,Debit,Movies,1
+875,54,29,112.5865151,53,0,9,15,Premium,Credit Card,Sports,1
+876,38,32,50.3572276,1,0,5,6,Premium,Debit,Movies,0
+877,31,5,119.8596803,49,0,6,16,Premium,PayPal,Movies,1
+878,19,22,81.1998413,17,0,1,17,Premium,Debit,Movies,1
+879,28,34,159.3233082,43,0,8,3,Premium,Debit,Movies,0
+880,68,1,107.6511539,25,0,9,10,Basic,Debit,Sports,1
+881,56,26,80.15071775,59,0,9,5,Premium,Debit,Movies,0
+882,55,10,117.538269,3,0,0,14,Standard,Debit,TV Shows,0
+883,51,30,170.8279834,15,0,0,26,Standard,Credit Card,TV Shows,1
+884,55,18,145.232634,29,1,2,29,Standard,PayPal,TV Shows,1
+885,67,17,128.796686,53,0,2,21,Premium,Credit Card,Sports,0
+886,51,26,66.95619764,43,0,0,13,Standard,PayPal,Movies,1
+887,35,8,184.864004,32,0,6,26,Basic,PayPal,Sports,1
+888,47,12,95.13491304,26,0,3,6,Premium,PayPal,Movies,0
+889,32,27,157.3513565,16,0,9,12,Standard,PayPal,Sports,1
+890,44,8,106.9854849,25,0,1,26,Basic,PayPal,Sports,1
+891,68,25,153.5003149,54,1,9,8,Basic,Debit,Movies,1
+892,51,4,172.2749638,28,1,4,5,Standard,Credit Card,Sports,1
+893,69,33,145.9254908,9,0,5,15,Basic,Credit Card,Movies,0
+894,55,1,150.2341984,56,0,8,27,Standard,Debit,TV Shows,1
+895,50,19,116.0624406,56,0,3,16,Basic,PayPal,TV Shows,0
+896,41,31,102.6413543,1,0,1,1,Premium,Credit Card,TV Shows,0
+897,32,16,125.5319476,29,0,4,16,Premium,Debit,Sports,0
+898,47,14,106.4034198,57,0,2,5,Premium,Debit,TV Shows,0
+899,59,5,218.6881484,22,0,1,3,Premium,Credit Card,Movies,1
+900,68,26,80.30566854,16,0,0,20,Premium,Credit Card,TV Shows,0
+901,34,28,160.0834087,41,0,9,15,Standard,PayPal,TV Shows,1
+902,22,2,140.6878734,51,1,1,13,Premium,PayPal,Sports,1
+903,46,6,129.1948883,44,0,5,24,Premium,Credit Card,Movies,0
+904,21,9,179.195444,51,0,7,16,Premium,PayPal,Sports,1
+905,27,33,131.9350981,54,0,2,23,Premium,Debit,Sports,0
+906,34,25,94.60372321,41,1,8,11,Basic,PayPal,Movies,1
+907,27,13,131.6692151,7,0,8,21,Premium,PayPal,Sports,1
+908,34,9,112.6728692,14,0,1,2,Premium,Debit,Movies,0
+909,37,13,140.1313868,29,0,7,22,Standard,PayPal,TV Shows,1
+910,41,31,152.5229453,19,0,9,27,Basic,Debit,Movies,1
+911,22,11,85.63648231,19,1,4,6,Standard,PayPal,Movies,1
+912,51,4,167.8134447,2,0,3,26,Premium,Credit Card,Movies,0
+913,23,34,109.8040062,41,0,9,26,Standard,PayPal,Sports,1
+914,19,4,137.7445569,45,1,4,27,Standard,Credit Card,Movies,1
+915,30,19,144.6812068,15,0,3,6,Premium,Credit Card,Movies,0
+916,60,6,134.6955476,3,0,7,14,Basic,Credit Card,Movies,1
+917,60,34,115.6356593,11,0,3,25,Basic,Credit Card,TV Shows,1
+918,65,18,100.4560967,53,1,9,11,Standard,Credit Card,Movies,1
+919,28,13,109.2402197,46,0,5,8,Premium,Debit,Sports,0
+920,68,23,182.6068773,30,0,1,8,Standard,Debit,Movies,1
+921,64,19,85.36534251,57,0,4,1,Standard,Debit,Movies,1
+922,40,11,91.23026648,40,0,5,21,Standard,Credit Card,TV Shows,1
+923,33,1,89.47404707,18,0,4,7,Premium,PayPal,Movies,1
+924,48,24,125.4301552,51,0,1,6,Premium,Debit,Sports,0
+925,28,7,59.011782,48,1,6,21,Basic,PayPal,Movies,1
+926,33,25,65.85760575,2,0,3,8,Premium,PayPal,Sports,0
+927,25,21,109.5618067,32,0,7,19,Standard,Credit Card,TV Shows,1
+928,21,15,68.48898219,8,0,6,22,Standard,Credit Card,Movies,1
+929,57,1,71.74914763,22,0,6,21,Basic,Credit Card,TV Shows,1
+930,21,12,68.78926363,6,1,8,24,Premium,Debit,Movies,1
+931,42,7,86.13553163,12,0,0,20,Standard,Credit Card,Sports,1
+932,20,15,149.2498603,47,0,9,8,Basic,Debit,TV Shows,1
+933,49,21,158.2283182,57,0,5,26,Basic,Debit,Movies,1
+934,20,19,196.7600357,40,0,5,14,Standard,Debit,Sports,0
+935,44,29,195.2944743,36,0,5,18,Standard,Debit,TV Shows,1
+936,46,25,151.4525084,15,0,5,25,Premium,Credit Card,Movies,1
+937,49,33,161.107107,28,1,9,29,Basic,Debit,TV Shows,1
+938,67,32,125.2440836,52,1,6,16,Standard,Credit Card,Movies,1
+939,68,35,140.7945941,57,0,9,9,Basic,Credit Card,Sports,1
+940,36,26,197.7441219,49,1,5,15,Premium,Debit,Sports,1
+941,38,11,134.8485147,45,0,0,26,Standard,Credit Card,TV Shows,1
+942,22,35,166.1295431,18,0,2,10,Premium,PayPal,TV Shows,0
+943,35,8,82.62593566,2,0,1,29,Basic,Credit Card,Movies,0
+944,45,14,93.35045103,13,0,5,22,Premium,Credit Card,Sports,1
+945,59,10,132.4827839,45,0,7,16,Premium,Debit,Movies,1
+946,39,2,125.9972668,54,0,2,4,Basic,Debit,Sports,1
+947,38,9,95.2026325,15,0,9,20,Premium,Credit Card,TV Shows,1
+948,23,3,216.2951034,20,0,7,13,Basic,Debit,Movies,1
+949,18,21,126.9037642,29,0,7,22,Standard,PayPal,Movies,1
+950,22,26,102.2909979,59,0,4,5,Basic,PayPal,Sports,1
+951,58,8,126.0647531,42,0,7,22,Basic,Debit,Sports,1
+952,29,2,121.0170681,29,0,5,7,Standard,Credit Card,Sports,1
+953,43,6,127.5121019,3,0,4,23,Basic,PayPal,TV Shows,1
+954,63,28,56.25131939,19,0,8,9,Standard,PayPal,Movies,1
+955,51,29,171.6778679,3,1,6,8,Standard,Credit Card,Sports,1
+956,66,26,173.9531768,54,0,7,29,Basic,Debit,TV Shows,1
+957,31,25,178.8128309,14,0,0,16,Premium,PayPal,Sports,0
+958,43,12,133.0172703,40,1,1,6,Premium,Credit Card,Movies,1
+959,62,5,146.4992424,59,0,7,28,Standard,Credit Card,Sports,1
+960,44,34,85.35092208,55,0,8,16,Premium,PayPal,Movies,1
+961,26,15,153.3159731,4,0,3,6,Premium,Debit,TV Shows,0
+962,43,15,130.0715083,59,1,9,14,Basic,PayPal,TV Shows,1
+963,64,23,101.5837354,52,0,9,21,Standard,Credit Card,Sports,1
+964,39,6,154.5897877,11,0,8,1,Standard,PayPal,Movies,1
+965,64,21,156.1379614,58,0,3,25,Basic,Debit,Movies,1
+966,47,23,122.4243534,31,0,9,9,Premium,Credit Card,Movies,1
+967,60,16,137.5353032,43,0,9,25,Standard,Debit,Sports,1
+968,65,15,78.73131952,32,0,9,27,Premium,PayPal,Movies,1
+969,34,25,169.7273375,27,0,8,24,Standard,PayPal,Movies,1
+970,43,11,84.04747248,30,1,6,13,Standard,Debit,Movies,1
+971,53,15,91.78297408,43,1,1,26,Standard,PayPal,Movies,1
+972,18,4,122.4926258,2,0,8,29,Standard,Debit,Sports,1
+973,25,21,164.5806514,49,1,3,19,Premium,PayPal,Sports,0
+974,66,13,164.5579453,9,0,7,17,Premium,Debit,Movies,0
+975,52,22,119.8070151,28,0,6,11,Premium,Debit,Movies,1
+976,69,19,150.9205345,31,0,6,28,Premium,Credit Card,TV Shows,1
+977,32,34,52.43766203,34,1,7,28,Basic,Credit Card,TV Shows,1
+978,64,14,91.22720039,56,1,0,8,Standard,Debit,Movies,0
+979,39,4,92.04198242,15,0,4,23,Standard,PayPal,Movies,1
+980,31,27,170.0885164,48,1,1,29,Standard,PayPal,TV Shows,1
+981,43,29,146.1861665,25,0,1,5,Basic,PayPal,TV Shows,0
+982,45,28,127.386111,36,1,0,10,Premium,Debit,Movies,0
+983,40,35,131.2694026,8,1,4,7,Standard,Debit,Sports,1
+984,31,8,182.733571,9,0,1,10,Premium,Debit,Sports,0
+985,41,16,113.1928133,58,0,3,4,Premium,Debit,Movies,0
+986,19,30,67.43730766,58,0,2,9,Basic,Credit Card,Movies,1
+987,62,18,163.4878074,37,0,2,27,Basic,Debit,TV Shows,1
+988,43,2,127.2735615,48,0,1,26,Premium,PayPal,TV Shows,1
+989,31,13,158.1468671,45,0,5,14,Standard,Credit Card,Sports,1
+990,68,4,118.2094077,39,1,1,2,Standard,PayPal,Movies,1
+991,24,26,86.45241905,32,0,7,25,Basic,Debit,TV Shows,1
+992,20,25,136.1128688,58,0,7,9,Basic,Credit Card,Sports,1
+993,64,30,120.4070028,52,1,4,21,Basic,Debit,Sports,1
+994,40,11,127.3976913,17,1,9,27,Basic,Credit Card,Sports,1
+995,63,7,184.6628198,35,0,6,1,Basic,PayPal,TV Shows,1
+996,60,31,76.0519009,37,1,3,23,Basic,Debit,TV Shows,1
+997,64,10,131.4367464,19,0,0,10,Basic,Debit,Movies,1
+998,62,13,87.24013239,44,1,1,10,Standard,Credit Card,Movies,1
+999,35,31,16.37816108,29,0,9,20,Basic,Credit Card,Sports,1
+1000,55,7,118.0413924,59,0,9,25,Basic,Debit,Sports,1
