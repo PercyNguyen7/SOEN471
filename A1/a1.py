@@ -13,9 +13,7 @@ def main():
     display_data(df)
     df = handle_missing_values(df)
     exploratory_data_analysis(df)
-    show_correlation(df)
 
-    return
 
 def display_data(df:DataFrame):
     print("\n\n----------Display Dataset structure----------")
@@ -26,7 +24,6 @@ def display_data(df:DataFrame):
 
 
 def handle_missing_values(df:DataFrame):
-
     print("\n\n----------Handle missing values----------")
     if df.isnull().values.any():
         print("Removing all rows that have missing datas.")
@@ -38,8 +35,11 @@ def handle_missing_values(df:DataFrame):
         return df
 
 def exploratory_data_analysis(df:DataFrame):
+    # TO-DO: Ask user which map they want to see as opposed to showing all 3
+    print("\n\n----------Showing Histograms----------")
     show_histogram(df)
     show_boxplot(df)
+    show_correlation(df)
 
 
 def show_histogram(df:DataFrame):
@@ -54,6 +54,8 @@ def show_boxplot(df:DataFrame):
     plt.show()
 
 def show_correlation(df:DataFrame):
+    # TO-DO: Explore other types of correlations on https://www.geeksforgeeks.org/data-analysis/exploring-correlation-in-python/
+
     corr_matrix = filter_num_df(df).corr()
     # print(corr_matrix)
 
@@ -63,11 +65,11 @@ def show_correlation(df:DataFrame):
 
 
 def filter_num_df(df:DataFrame):
-    numeric_cols = df.select_dtypes(include="number").columns
+    cols_list= df.select_dtypes(include="number").columns
     # print(df.select_dtypes(include="number").columns)
 
     # Return DataFrame without clientID column
-    return  df[numeric_cols[1:]]
+    return  df[cols_list[1:]]
 
 
 main()
