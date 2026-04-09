@@ -20,5 +20,5 @@
 
 ## Resizing Output Data
 
-Note that we limited some dataframe results to only show a fraction of the output as output tables may take up up hundreds of rows.
+Note that we limited some dataframe results to only show a fraction of the output as output tables may take up hundreds of rows.
 If you wish to see more or fewer options, please edit `iloc[r:c]` or `head(r)` where `r` represents the number of rows and `c` represenst the number of columns.
